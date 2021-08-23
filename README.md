@@ -9,7 +9,7 @@
 ### I am a Computer vision Enthusiastic, Machine Learning enthusiast, Pythonist.
  
 
-🌱 I’m currently exploring: My self who can build a great future in Computer vision field.
+🌱 I’m currently exploring various fields in Machine learning so that i can build a great future in Computer vision field/Deep learning field.
 
 💬 Ask me about: Python, Machine Learning,Computer vision, Jokes, Memes and songs🎧
 
