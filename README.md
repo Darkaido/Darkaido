@@ -39,7 +39,7 @@
 
 
 #### A some of the work which is done by me 👇
-| [AMS Face Recognition](https://github.com/Spidy20/Attendace_management_system) | [Face Mask Detection](https://github.com/Spidy20/face_mask_detection) | [Python (.Py) to APK](https://github.com/Spidy20/Python_To_APK)  | [Traffic Sign Recognition](https://github.com/Spidy20/Traffic_Signs_WebApp) | [Fake News Detection](https://github.com/Spidy20/Fake_News_Detection) | [License Plate Detection & Recognition](https://youtu.be/yMQvcWBx1fE) | [Music Player with Emotion Recognition](https://github.com/Spidy20/Music_player_with_Emotions_recognition)
+| [Human Face Detection](https://github.com/Darkaido/Human_face_detection) | [Face Mask Detection](https://github.com/Spidy20/face_mask_detection) | [Python (.Py) to APK](https://github.com/Spidy20/Python_To_APK)  | [Traffic Sign Recognition](https://github.com/Spidy20/Traffic_Signs_WebApp) | [Fake News Detection](https://github.com/Spidy20/Fake_News_Detection) | [License Plate Detection & Recognition](https://youtu.be/yMQvcWBx1fE) | [Music Player with Emotion Recognition](https://github.com/Spidy20/Music_player_with_Emotions_recognition)
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
