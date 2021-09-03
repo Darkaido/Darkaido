@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/Spidy20/spidy20/blob/main/demo.gif" width="360"/>
 
 
-## Hey there 👋 My name is Aman Jain, people know me as Darkaido 
+## Hey there 👋 My name is Aman Jain .
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanjain101/)&nbsp; 
 
