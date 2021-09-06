@@ -30,8 +30,8 @@
 | :---: | :---: | :---: | :---: | 
 
 #### For Web Development & UI
-| Flask | StreamLit | Gradio | tkinter 
-| :---: | :---: | :---: | :---: | 
+| Flask | StreamLit |
+| :---: | :---: | 
 
 #### IDEs that I am aware with 
 | Pycharm | Spyder | Google Colab | Jupyter Notebook | Sublime-text | Kaggle
